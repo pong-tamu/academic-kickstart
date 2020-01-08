@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "Programming"
 
 # Showcase personal skills or business features.
 # 
@@ -15,10 +15,10 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Python3"
+  description = "100%"
   
 [[feature]]
   icon = "chart-line"

@@ -2,10 +2,10 @@
 # People widget.
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 68  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 1  # Order that this section will appear.
 
-title = "People"
+title = "Meet the team"
 subtitle = ""
 
 # List user groups to display.
@@ -17,3 +17,9 @@ user_groups = ["Principal Investigators",
                "Visitors",
                "Alumni"]
 +++
+Kristen Thyng 
+# Show user's social networking links? (true/false)
+show_social = false
+
+# Show user's interests? (true/false)
+show_interests = true
