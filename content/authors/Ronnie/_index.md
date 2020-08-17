@@ -7,10 +7,10 @@ authors:
 - ronnie
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Graduate Student
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
