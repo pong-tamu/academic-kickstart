@@ -29,7 +29,7 @@ education:
   - course: Ph.D. Mechanical Engineering
     institution: University of Washington
     year: 2012
-  - course: M.Sc. Applied Mathematics, University of Washington
+  - course: M.Sc. Applied Mathematics
     institution: University of Washington
     year: 2007
   - course: B.A. Physics, Minor in Mathematics, Honors
@@ -43,7 +43,7 @@ education:
 social:
 - icon: twitter
   icon_pack: fab
-  links: https://twitter.com/thyngkm
+  link: https://twitter.com/thyngkm
 - icon: envelope
   icon_pack: fas
   link: 'mailto:kthyng@tamu.edu'  # For a direct email link, use "mailto:test@example.org".
@@ -61,7 +61,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:

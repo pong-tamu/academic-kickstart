@@ -1,13 +1,16 @@
 ---
 # Display name
-name: PONG
+name: Steve Baum
 
 # Username (this should match the folder name)
 authors:
-- admin
+- steve
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
+
+# Role/position
+role:  Associate Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -15,22 +18,27 @@ organizations:
   url: "https://www.tamu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
+bio:
+
+interests:
+- Beer
+education:
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:steve@ocean.tamu.edu'  # For a direct email link, use "mailto:test@example.org".
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-
+user_groups:
+- Researchers
 ---
-
-People in the Physical Oceanography Numerical Group work on problems in the coastal ocean using numerical simulations. Currently, the [Regional Ocean Modeling System (ROMS)](https://www.myroms.org/) is used for all of the simulations.
